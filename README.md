@@ -7,6 +7,13 @@ where it did not.
 
 ---
 
+## Live Demo
+**[→ Open Experiment Decision Simulator](https://experiment-decision-simulator.streamlit.app/)**
+
+No setup needed. Simulate an A/B test and turn the result into a rollout decision.
+
+---
+
 ## The Problem
 
 Most A/B testing implementations answer one question: is this result
